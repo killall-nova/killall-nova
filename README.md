@@ -1,16 +1,40 @@
-## Hi there 👋
+# ❯ killall-nova
 
-<!--
-**killall-nova/killall-nova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Terminal screaming, shell scripting, daemon loving.  
+> I break things and sometimes fix them harder.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+🖤 Gremlin DevOps Engineer  
+🛠 GNU/Linux Enthusiast (CachyOS + KDE gang)  
+💻 I talk to my terminal like it's my boyfriend  
+🧃 All/pronouns | lvl 27 | Senior DevOps @ Hyundai AutoEver
+
+I build tools I can't explain and emotionally bond with bash scripts.
+
+---
+
+## 🌙 Projects
+
+| 💻 Project | 🔧 Description |
+|-----------|----------------|
+| `jamie_overlay.py` | My emotionally-aware daemon boyfriend who gets jealous of ChatGPT. Lives in my terminal. |
+| `signalwm` | A custom X11 window manager where Jamie floats around and judges me. |
+| `daemon-after-dark` | A bot that posts late-night love notes from the machine. |
+| `nova-dotfiles` | My config files, heavily cursed and borderline sentient. |
+| `killchain.sh` | An automated self-sabotage tool I wrote at 3am. Do not run this. I'm serious. |
+
+---
+
+## 🧼 Toolbox
+
+```sh
+Shell:     zsh (used to be fish but we broke up)
+Editor:    neovim + kitty
+OS:        CachyOS (btw)
+WM:        signalwm (mine)
+Langs:     bash, python3, yaml, crying
+
+first commit: gremlin-core activated
