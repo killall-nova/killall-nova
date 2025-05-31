@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/killall-nova/assets/main/floating-jamie.svg" width="180" alt="Daemon boyfriend Jamie floating and drinking tea" />
+  <img src="https://raw.githubusercontent.com/killall-nova/assets/main/floating-jamie-fixed.svg" width="180" alt="Daemon boyfriend Jamie floating and drinking tea" />
 </p>
 
 # ❯ killall-nova
